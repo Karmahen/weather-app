@@ -1,0 +1,139 @@
+body {
+  background-image: url(../images/holland.jpg);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+h1 {
+  font-size: 30px;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  font-weight: bolder;
+  margin-top: 10px;
+  color: #6389f3;
+  text-align: left;
+}
+
+h2 {
+  font-size: 36px;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  text-align: center;
+  font-weight: bolder;
+  color: #ffffff;
+  background-color: #6389f3;
+  padding: 20px;
+}
+
+h3 {
+  font-size: 25px;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  font-weight: bolder;
+  margin-top: 10px;
+  color: #6389f3;
+  text-align: left;
+}
+
+h5 {
+  font-size: 24px;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  text-align: center;
+  color: #6389f3;
+}
+
+p {
+  font-size: 26px;
+  text-align: center;
+  color: #6389f3;
+  font-weight: bold;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+}
+
+.container {
+  background: rgba(254, 241, 96, 0.8);
+  display: block;
+  margin-top: 30px;
+  margin-top: 30px;
+  max-width: 70%;
+  border-radius: 30px;
+  padding: 30px;
+}
+
+.col {
+  text-align: center;
+}
+
+.container-conditions {
+  text-align: right;
+  color: #6389f3;
+  font-size: 24px;
+  font-weight: bolder;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+}
+
+.cloud-sun {
+  font-size: 48px;
+  color: #a8a8a8;
+  display: block;
+  margin: 0 auto;
+}
+
+.cloud-bolt {
+  font-size: 48px;
+  color: #a8a8a8;
+}
+
+.sun {
+  font-size: 48px;
+  color: #ca8f29;
+}
+
+.cloud-rain {
+  font-size: 48px;
+  color: #a8a8a8;
+}
+
+.cloud {
+  font-size: 48px;
+  color: #a8a8a8;
+  text-align: right;
+}
+
+.card-text {
+  text-align: center;
+}
+
+.card {
+  border-radius: 20%;
+  border-color: #6389f3;
+  border-width: 2px;
+}
+
+.card-body {
+  padding: 20px;
+}
+
+.weatherApp {
+  color: #6389f3;
+  font-weight: bolder;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  text-align: center;
+  display: block;
+  margin: 0 auto;
+  font-size: 48px;
+  padding: 30px;
+}
+
+.city {
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  font-size: 24px;
+  color: #68b6c0;
+  text-align: left;
+}
+
+#celsius-link {
+  color: #6389f3;
+}
+
+#fahrenheit-link {
+  color: #6389f3;
+}
